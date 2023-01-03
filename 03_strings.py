@@ -13,4 +13,4 @@ print("I am learning Python and Git")
 print("Muhammad")
 print("Salman")
 print("Naseer")
-
+print("This program is closed now")
