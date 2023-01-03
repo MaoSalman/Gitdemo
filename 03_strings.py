@@ -5,3 +5,7 @@ print('''Testing triple quotes''')  # triple quotation
 print("   How's you  ??")
 print("Salman")
 print("I am learning Python and Git")
+print("Muhammad")
+print("Salman")
+print("Naseer")
+
